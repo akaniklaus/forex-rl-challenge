@@ -41,9 +41,9 @@ Stability: 94.78%
 Tail Ratio: 2.78x 
 Value at Risk: -0.75%
 
-# Annual Cumulative Return
+# Annual Cumulative Return (2018)
 ![](annual_return.png)
-# Weekly Portfolio Log Return
+# Weekly Portfolio Log Return (2018)
 ![](weekly_return.png)
 # QC Live Trading Results!!!
 ![](live_trading.png)
